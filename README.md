@@ -20,8 +20,9 @@
   </a>
 </p>
 
-基于@lianshuze大神的思路，重新构建镜像，并在go2rtc里面删除部分代码，使得米家摄像头（个人自用C700)能够接入海康威视录像机。
-在此感谢@AlexxIT和@lianshuze大神。
+仅供个人使用。
+本人新手小白（纯新），基于@lianshuze大神的思路（基本复制哈哈哈），借助ai的力量，重新构建镜像，并在go2rtc配置里面删除部分代码，使得米家摄像头（个人自用C700)能够接入海康威视录像机。
+在此感谢@AlexxIT和@lianshuze大神，还有千问，虽然你总是超时，但功不可没。
 
 Ultimate camera streaming application with support for dozens formats and protocols.
 
