@@ -20,6 +20,9 @@
   </a>
 </p>
 
+基于@lianshuze大神的思路，重新构建镜像，并在go2rtc里面删除部分代码，使得米家摄像头（个人自用C700)能够接入海康威视录像机。
+在此感谢@AlexxIT和@lianshuze大神。
+
 Ultimate camera streaming application with support for dozens formats and protocols.
 
 - zero-dependency [small app](#go2rtc-binary) for all OS (Windows, macOS, Linux, FreeBSD)
